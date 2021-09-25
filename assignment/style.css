@@ -1,3 +1,55 @@
+Body {
+  background-color: #447486;
+}
+
+h1 {
+  color: white;
+  font-size: 40px;
+  font-family: cursive;
+  text-align: center;
+}
+
+h2 {
+  color: White;
+  text-align: center;
+  font-weight: bold;
+  font-style: oblique;
+}
+
+img {
+  width: 100%;
+  border: 1px solid black;
+}
+
+p {
+  color: black;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+}
+
+li {
+  font-family: fantasy;
+  font-weight: 400;
+}
+
+.music {
+  text-align: center;
+  font-weight: 100;
+}
+
+.header {
+  background-color: black;
+  padding-left: 10px;
+  border: 1px solid black;
+}
+
+.footer {
+  background-color: white;
+  border: 1px solid black;
+  text-align: center;
+}
 /* Give your page a fun background color */
 
 /* Make the header and footer a different color from the background */
